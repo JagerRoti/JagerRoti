@@ -9,6 +9,7 @@ I'm a developer building full-stack web apps. Here's what I've been working on:
 > A full-stack web app that helps reunite lost pets with their families.
 
 [![PawFound](https://img.shields.io/badge/🐾_PawFound-View_Repo-FAC775?style=for-the-badge&labelColor=EF9F27)](https://github.com/JagerRoti/pawfound)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-pawfound.vercel.app-378ADD?style=for-the-badge)](https://pawfound.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -21,9 +22,9 @@ I'm a developer building full-stack web apps. Here's what I've been working on:
 - ✅ Mark pets as reunited once they're home
 - 🎉 Reunited gallery — a happy wall of success stories
 
-**Built with:** Next.js 14 App Router · TypeScript · Tailwind CSS · Prisma v7 · SQLite · Next.js API Routes
+**Built with:** Next.js 14 App Router · TypeScript · Tailwind CSS · Prisma v7 · PostgreSQL · Next.js API Routes
 
-🔗 **[github.com/JagerRoti/pawfound](https://github.com/JagerRoti/pawfound)**
+🌐 **[pawfound.vercel.app](https://pawfound.vercel.app)** &nbsp;|&nbsp; 🔗 **[github.com/JagerRoti/pawfound](https://github.com/JagerRoti/pawfound)**
 
 ---
 
