@@ -50,7 +50,7 @@ A growing suite of personal productivity automations:
 > Official website for **Shopnopuri Artificial Amusement Park**, a premier tourist destination in Bangladesh.
 
 [![Shopnopuri](https://img.shields.io/badge/🎡_Shopnopuri_Website-View_Repo-FF6B6B?style=for-the-badge&labelColor=FF5252)](https://github.com/JagerRoti/shopnopuri-website)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-shopnopuri-website.vercel.app-378ADD?style=for-the-badge)](https://shopnopuri-website.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-shopnopuri--website.vercel.app-378ADD?style=for-the-badge)](https://shopnopuri-website.vercel.app/)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
