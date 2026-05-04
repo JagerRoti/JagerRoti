@@ -45,6 +45,30 @@ A growing suite of personal productivity automations:
 
 ---
 
+## 🎡 Shopnopuri — Amusement Park Website
+
+> Official website for **Shopnopuri Artificial Amusement Park**, a premier tourist destination in Bangladesh.
+
+[![Shopnopuri](https://img.shields.io/badge/🎡_Shopnopuri_Website-View_Repo-FF6B6B?style=for-the-badge&labelColor=FF5252)](https://github.com/JagerRoti/shopnopuri-website)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-shopnopuri.vercel.app-378ADD?style=for-the-badge)](https://shopnopuri.vercel.app)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Located in **Nawabganj, Dinajpur, Bangladesh**, this premier destination features:
+- 🎢 Thrilling rides and attractions
+- 🦁 Mini zoo with diverse wildlife
+- 🏘️ Comfortable rest-houses
+- 🌳 Beautiful gardens and scenic lakes
+- 🏞️ Central picnic areas
+- 🛍️ Extensive shopping zones
+
+**Built with:** Next.js · TypeScript · Tailwind CSS · i18n (Multi-language support) · Responsive Design
+
+---
+
 ## 🐾 PawFound — Lost & Found Pets Platform
 
 > A personal full-stack project. Helps reunite lost pets with their families.
